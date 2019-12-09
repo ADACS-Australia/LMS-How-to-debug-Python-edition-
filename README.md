@@ -1,1 +1,1 @@
-# LMS---How-to-debug-Python-edition-
+# How to debug (Python edition)
